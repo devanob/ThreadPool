@@ -1,0 +1,4 @@
+#ifndef THREADWORKER_H
+#define THREADWORKER_H
+
+#endif // THREADWORKER_H
